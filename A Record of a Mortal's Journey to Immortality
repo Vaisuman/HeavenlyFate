@@ -6,8 +6,8 @@
   "cover": "https://i.imgur.com/9J2bxON.png",
   "chapters": {
     "1": {
-      "title": "",
-      "volume": "",
+      "title": "Test",
+      "volume": "Test",
       "groups": {
         "Heavenly Fate": "/proxy/api/imgur/chapter/record-of-mortals-journey-to-immortality-chapter-1-KU8wopH/"
       },
