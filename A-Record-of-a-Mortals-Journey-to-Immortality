@@ -5,6 +5,14 @@
   "author": "Yu Wang",
   "cover": "https://i.imgur.com/ACaO9BY.png",
   "chapters": {
+    "0": {
+      "title": "Not Yet Uploaded!",
+      "volume": "",
+      "groups": {
+        "BiliBili Comics": "/proxy/api/imgur/chapter//"
+      },
+      "last_updated": "1731814330"
+      },
     "1": {
       "title": "Not Yet Uploaded!",
       "volume": "",
@@ -2454,14 +2462,6 @@
       "last_updated": "1731814330"
       },
     "307": {
-      "title": "Not Yet Uploaded!",
-      "volume": "",
-      "groups": {
-        "BiliBili Comics": "/proxy/api/imgur/chapter//"
-      },
-      "last_updated": "1731814330"
-      },
-    "308": {
       "title": "Annihilation of a Clan",
       "volume": "",
       "groups": {
@@ -2469,7 +2469,7 @@
       },
       "last_updated": "1731814330"
       },
-    "309": {
+    "308": {
       "title": "Dong Xuan'er's Search",
       "volume": "",
       "groups": {
@@ -2477,7 +2477,7 @@
       },
       "last_updated": "1731863640"
       },
-    "310": {
+    "309": {
       "title": "The Ancestor's Arrival",
       "volume": "",
       "groups": {
@@ -2485,7 +2485,7 @@
       },
       "last_updated": "1731865046"
       },
-    "311": {
+    "310": {
       "title": "Tracking",
       "volume": "",
       "groups": {
@@ -2493,7 +2493,7 @@
       },
       "last_updated": "1731866915"
       },
-    "312": {
+    "311": {
       "title": "So It's You",
       "volume": "",
       "groups": {
@@ -2501,7 +2501,7 @@
       },
       "last_updated": "1731929056"
       },
-    "313": {
+    "312": {
       "title": "Accepting a Master",
       "volume": "",
       "groups": {
@@ -2509,7 +2509,7 @@
       },
       "last_updated": "1732026693"
       },
-    "314": {
+    "313": {
       "title": "Secret of the Profound Nascent Formation Arts",
       "volume": "",
       "groups": {
@@ -2517,7 +2517,7 @@
       },
       "last_updated": "1732160647"
       },
-    "315": {
+    "314": {
       "title": "Forced Transaction",
       "volume": "",
       "groups": {
@@ -2525,7 +2525,7 @@
       },
       "last_updated": "1732273466"
       },
-    "316": {
+    "315": {
       "title": "The Trade Fair of Heavencrystal",
       "volume": "",
       "groups": {
@@ -2533,7 +2533,7 @@
       },
       "last_updated": "1732344141"
       },
-    "317": {
+    "316": {
       "title": "Soul Stone",
       "volume": "",
       "groups": {
@@ -2541,7 +2541,7 @@
       },
       "last_updated": "1732575337"
       },
-    "318": {
+    "317": {
       "title": "Ancient Puppet Technique",
       "volume": "",
       "groups": {
@@ -2549,7 +2549,7 @@
       },
       "last_updated": "1732594273"
       },
-    "319": {
+    "318": {
       "title": "Meeting Wang Chan Again",
       "volume": "",
       "groups": {
